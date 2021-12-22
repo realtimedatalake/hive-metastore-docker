@@ -1,7 +1,7 @@
 # hive-metastore-docker
 Containerized Apache Hive Metastore for horizontally scalable Hive Metastore deployments
 
-The `hive-metastore` image is stored on Docker Hub in the [rtdl/`hive-metastore` repository](https://hub.docker.com/repository/docker/rtdl/hive-metastore.
+The `hive-metastore` image is stored on Docker Hub in the [rtdl/hive-metastore repository](https://hub.docker.com/repository/docker/rtdl/hive-metastore).
 
 ## Use
 * This image is not interactive and has no default ENTRYPOINT. You must use the `entrypoint` option along with a corresponding shell script and `volumes` to load scripts to execute.
