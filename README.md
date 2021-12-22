@@ -32,4 +32,4 @@ catalog:
 ```
 
 ## Build
-If you want to build the image yourself, clone the repo run `docker build -t rtdl/hive-metastore:latest .`.
+If you want to build the image yourself, clone the repo and run `docker build -t rtdl/hive-metastore:latest .`.
