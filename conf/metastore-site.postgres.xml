@@ -19,7 +19,7 @@
     </property>
     <property>
         <name>javax.jdo.option.ConnectionURL</name>
-        <value>jdbc:postgresql://localhost:5433/rtdl_catalog_db</value>
+        <value>jdbc:postgresql://catalog-db:5432/rtdl_catalog_db</value>
     </property>
     <property>
         <name>javax.jdo.option.ConnectionUserName</name>

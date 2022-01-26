@@ -1,2 +1,2 @@
-# Mac files
-.DS_Store
+# Data storage directories
+storage*/
