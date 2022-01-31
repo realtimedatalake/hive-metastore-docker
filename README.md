@@ -4,6 +4,10 @@ backed by a PostgreSQL-compatible database.
 
 The `hive-metastore` image is stored on Docker Hub in the [rtdl/hive-metastore repository](https://hub.docker.com/repository/docker/rtdl/hive-metastore).
 
+## rtdl - The Real-Time Data Lake
+This is a sub-project of [rtdl](https://github.com/realtimedatalake/rtdl) – the real-time 
+data lake. Please go to rtdl's repo and give it a star.
+
 ## How to Use
 To get a persistent Apache Hive Metastore instance running in a container backed by a 
 PostgreSQL-compatible database (all files stored in `storage/` folder):
